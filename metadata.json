@@ -1,0 +1,7 @@
+{
+  "name": "Next-path",
+  "description": "ເວທີສຳຫຼວດຕົນເອງ ສຳລັບໄວໜຸ່ມລາວ ເພື່ອຄົ້ນຫາຄວາມສົນໃຈ ແລະ ທົດລອງເສັ້ນທາງຊີວິດ/ການຮຽນ/ອາຊີບ ຢ່າງບໍ່ກົດດັນ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
